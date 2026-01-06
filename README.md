@@ -1,8 +1,10 @@
 Project Overview
+
 This project involves the analysis of district-wise sectoral data across Indian states to understand regional economic distribution and sectoral performance. The study aims to identify patterns, variations, and dominance of different sectors at the district level using structured data analysis techniques.
 The project was carried out as part of an academic live project with a focus on applying SQL-based analysis to real-world Indian datasets.# District-Wise-Sectoral-Analysis-of-Indian-States
 
 Objectives
+
 To study sector-wise distribution across districts in Indian states
 To analyze regional economic patterns using structured queries
 To gain hands-on experience in SQL-based data analysis
