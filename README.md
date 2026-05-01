@@ -59,6 +59,9 @@ This project analyzes district-level sectoral data across Indian states to uncov
 
 ---
 
+## 📊 Sample Visualizations 
+![Dashboard](Dashboard.png)
+
 ## ▶️ How to Run  
 
 1. Load dataset into SQL environment  
